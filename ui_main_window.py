@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from ui_action_window import Ui_Form
 
 __APPNAME__ = 'Trainer'
-__VERSION__ = "0.0.3"
+__VERSION__ = "0.0.1"
 
 def resource_path(relative_path):
     if hasattr(sys, '_MEIPASS'):
