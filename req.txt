@@ -1,0 +1,234 @@
+absl-py==1.0.0
+altgraph==0.17.2
+appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1649077682618/work
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1618968359944/work
+attrs==21.4.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
+beautifulsoup4==4.11.1
+bleach==5.0.0
+certifi==2021.10.8
+cffi==1.15.0
+click==7.1.2
+cycler==0.11.0
+Cython==0.29.30
+debugpy @ file:///opt/concourse/worker/volumes/live/e17abc9f-08a9-4dca-4e9b-e6d24bde47ce/volume/debugpy_1637091828617/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+defusedxml==0.7.1
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1646044401614/work
+fastjsonschema==2.15.3
+fonttools==4.29.1
+future==0.18.2
+guidata==2.2.0
+guiqwt==4.1.1
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1649684468949/work/dist/ipykernel-6.13.0-py3-none-any.whl
+ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1648413602721/work
+ipython-genutils==0.2.0
+jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1649067146773/work
+Jinja2==3.1.1
+jsonschema==2.6.0
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1649340884673/work
+jupyter-core @ file:///Users/runner/miniforge3/conda-bld/jupyter_core_1645024290809/work
+jupyterlab-pygments==0.2.2
+keyboard==0.13.5
+kiwisolver==1.3.2
+macholib==1.16
+MarkupSafe==2.1.1
+matplotlib==3.5.1
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
+mediapipe==0.8.9.1
+mistune==0.8.4
+nbclient==0.6.0
+nbconvert==6.5.0
+nbformat==5.3.0
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1648959695634/work
+notebook==6.4.11
+numpy==1.21.5
+opencv-contrib-python==4.5.5.62
+opencv-python==4.5.5.64
+opencv-python-headless==4.5.5.64
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandocfilters==1.5.0
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1602535608087/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow==9.0.1
+prometheus-client==0.14.1
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1649130487073/work
+protobuf==3.19.4
+psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1648873031030/work
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
+pycparser==2.21
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1641580240686/work
+pyinstaller==5.1
+pyinstaller-hooks-contrib==2022.5
+pyinstaller-versionfile==2.0.0
+pyobjc==8.5
+pyobjc-core==8.5
+pyobjc-framework-Accessibility==8.5
+pyobjc-framework-Accounts==8.5
+pyobjc-framework-AddressBook==8.5
+pyobjc-framework-AdServices==8.5
+pyobjc-framework-AdSupport==8.5
+pyobjc-framework-AppleScriptKit==8.5
+pyobjc-framework-AppleScriptObjC==8.5
+pyobjc-framework-ApplicationServices==8.5
+pyobjc-framework-AppTrackingTransparency==8.5
+pyobjc-framework-AudioVideoBridging==8.5
+pyobjc-framework-AuthenticationServices==8.5
+pyobjc-framework-AutomaticAssessmentConfiguration==8.5
+pyobjc-framework-Automator==8.5
+pyobjc-framework-AVFoundation==8.5
+pyobjc-framework-AVKit==8.5
+pyobjc-framework-BusinessChat==8.5
+pyobjc-framework-CalendarStore==8.5
+pyobjc-framework-CallKit==8.5
+pyobjc-framework-CFNetwork==8.5
+pyobjc-framework-ClassKit==8.5
+pyobjc-framework-CloudKit==8.5
+pyobjc-framework-Cocoa==8.5
+pyobjc-framework-Collaboration==8.5
+pyobjc-framework-ColorSync==8.5
+pyobjc-framework-Contacts==8.5
+pyobjc-framework-ContactsUI==8.5
+pyobjc-framework-CoreAudio==8.5
+pyobjc-framework-CoreAudioKit==8.5
+pyobjc-framework-CoreBluetooth==8.5
+pyobjc-framework-CoreData==8.5
+pyobjc-framework-CoreHaptics==8.5
+pyobjc-framework-CoreLocation==8.5
+pyobjc-framework-CoreMedia==8.5
+pyobjc-framework-CoreMediaIO==8.5
+pyobjc-framework-CoreMIDI==8.5
+pyobjc-framework-CoreML==8.5
+pyobjc-framework-CoreMotion==8.5
+pyobjc-framework-CoreServices==8.5
+pyobjc-framework-CoreSpotlight==8.5
+pyobjc-framework-CoreText==8.5
+pyobjc-framework-CoreWLAN==8.5
+pyobjc-framework-CryptoTokenKit==8.5
+pyobjc-framework-DataDetection==8.5
+pyobjc-framework-DeviceCheck==8.5
+pyobjc-framework-DictionaryServices==8.5
+pyobjc-framework-DiscRecording==8.5
+pyobjc-framework-DiscRecordingUI==8.5
+pyobjc-framework-DiskArbitration==8.5
+pyobjc-framework-DVDPlayback==8.5
+pyobjc-framework-EventKit==8.5
+pyobjc-framework-ExceptionHandling==8.5
+pyobjc-framework-ExecutionPolicy==8.5
+pyobjc-framework-ExternalAccessory==8.5
+pyobjc-framework-FileProvider==8.5
+pyobjc-framework-FileProviderUI==8.5
+pyobjc-framework-FinderSync==8.5
+pyobjc-framework-FSEvents==8.5
+pyobjc-framework-GameCenter==8.5
+pyobjc-framework-GameController==8.5
+pyobjc-framework-GameKit==8.5
+pyobjc-framework-GameplayKit==8.5
+pyobjc-framework-ImageCaptureCore==8.5
+pyobjc-framework-IMServicePlugIn==8.5
+pyobjc-framework-InputMethodKit==8.5
+pyobjc-framework-InstallerPlugins==8.5
+pyobjc-framework-InstantMessage==8.5
+pyobjc-framework-Intents==8.5
+pyobjc-framework-IntentsUI==8.5
+pyobjc-framework-IOSurface==8.5
+pyobjc-framework-iTunesLibrary==8.5
+pyobjc-framework-KernelManagement==8.5
+pyobjc-framework-LatentSemanticMapping==8.5
+pyobjc-framework-LaunchServices==8.5
+pyobjc-framework-libdispatch==8.5
+pyobjc-framework-LinkPresentation==8.5
+pyobjc-framework-LocalAuthentication==8.5
+pyobjc-framework-LocalAuthenticationEmbeddedUI==8.5
+pyobjc-framework-MailKit==8.5
+pyobjc-framework-MapKit==8.5
+pyobjc-framework-MediaAccessibility==8.5
+pyobjc-framework-MediaLibrary==8.5
+pyobjc-framework-MediaPlayer==8.5
+pyobjc-framework-MediaToolbox==8.5
+pyobjc-framework-Metal==8.5
+pyobjc-framework-MetalKit==8.5
+pyobjc-framework-MetalPerformanceShaders==8.5
+pyobjc-framework-MetalPerformanceShadersGraph==8.5
+pyobjc-framework-MetricKit==8.5
+pyobjc-framework-MLCompute==8.5
+pyobjc-framework-ModelIO==8.5
+pyobjc-framework-MultipeerConnectivity==8.5
+pyobjc-framework-NaturalLanguage==8.5
+pyobjc-framework-NetFS==8.5
+pyobjc-framework-Network==8.5
+pyobjc-framework-NetworkExtension==8.5
+pyobjc-framework-NotificationCenter==8.5
+pyobjc-framework-OpenDirectory==8.5
+pyobjc-framework-OSAKit==8.5
+pyobjc-framework-OSLog==8.5
+pyobjc-framework-PassKit==8.5
+pyobjc-framework-PencilKit==8.5
+pyobjc-framework-Photos==8.5
+pyobjc-framework-PhotosUI==8.5
+pyobjc-framework-PreferencePanes==8.5
+pyobjc-framework-PushKit==8.5
+pyobjc-framework-Quartz==8.5
+pyobjc-framework-QuickLookThumbnailing==8.5
+pyobjc-framework-ReplayKit==8.5
+pyobjc-framework-SafariServices==8.5
+pyobjc-framework-SceneKit==8.5
+pyobjc-framework-ScreenCaptureKit==8.5
+pyobjc-framework-ScreenSaver==8.5
+pyobjc-framework-ScreenTime==8.5
+pyobjc-framework-ScriptingBridge==8.5
+pyobjc-framework-SearchKit==8.5
+pyobjc-framework-Security==8.5
+pyobjc-framework-SecurityFoundation==8.5
+pyobjc-framework-SecurityInterface==8.5
+pyobjc-framework-ServiceManagement==8.5
+pyobjc-framework-ShazamKit==8.5
+pyobjc-framework-Social==8.5
+pyobjc-framework-SoundAnalysis==8.5
+pyobjc-framework-Speech==8.5
+pyobjc-framework-SpriteKit==8.5
+pyobjc-framework-StoreKit==8.5
+pyobjc-framework-SyncServices==8.5
+pyobjc-framework-SystemConfiguration==8.5
+pyobjc-framework-SystemExtensions==8.5
+pyobjc-framework-UniformTypeIdentifiers==8.5
+pyobjc-framework-UserNotifications==8.5
+pyobjc-framework-UserNotificationsUI==8.5
+pyobjc-framework-VideoSubscriberAccount==8.5
+pyobjc-framework-VideoToolbox==8.5
+pyobjc-framework-Virtualization==8.5
+pyobjc-framework-Vision==8.5
+pyobjc-framework-WebKit==8.5
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1649603503565/work
+pyqt-tools==1.0.0
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.10.1
+pyqt5-tools==5.15.4.3.2
+pyqtgraph==0.12.4
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-dotenv==0.20.0
+PythonQwt==0.10.1
+PyYAML==5.4.1
+pyzmq @ file:///Users/runner/miniforge3/conda-bld/pyzmq_1635877502229/work
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.2
+QtPy==2.1.0
+scipy==1.7.3
+Send2Trash==1.8.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+soupsieve==2.3.2.post1
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1644872665635/work
+terminado==0.13.3
+tinycss2==1.1.1
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1648827543297/work
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1635260543454/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+webencodings==0.5.1
